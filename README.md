@@ -27,7 +27,6 @@ Participants were provided with satellite-derived data over time for various agr
 ## 📁 Files
 
 - `Amini Canopy or Crop Challenge Notebook.ipynb`: Full training and inference pipeline.
-- `Train.csv` / `Test.csv`: Input files .
 - `submission.csv`: Example format for predictions.
 
 ---
